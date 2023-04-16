@@ -1,3 +1,4 @@
+# Input x and y and perform |x|+x^y+sqrt(x)+cbrt(xy)+ceil(x+y)+floor(x-y)
 import math
 x=int(input("Enter a number"))
 y=int(input("Enter a number"))
