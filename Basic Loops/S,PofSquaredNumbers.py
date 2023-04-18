@@ -7,6 +7,6 @@ while(i<=n):
     s=s+math.pow(i,2)
     p=p*math.pow(i,2)
     i+=1
-print(s)
+print(s,end=" ")
 print(p)
     

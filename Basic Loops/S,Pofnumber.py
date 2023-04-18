@@ -6,6 +6,6 @@ while(i<=n):
     s=s+i
     p=p*i
     i+=1
-print(s)
+print(s, end=" ")
 print(p)
     
